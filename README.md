@@ -13,27 +13,15 @@ An application designed to display NFC UID information with an easy-to-use graph
 
 ---
 
-## Screenshots
+## Compatibility
 
-### Main App Interface
-The primary interface of the app:
+This application has been tested with the **ACS ACR122U** NFC reader, but it should work with any PC/SC-compliant smart card reader that supports the ISO/IEC 7816 standard. This includes most smart card readers available on the market, as long as they follow the PC/SC protocol for communication with NFC and smart cards.
 
-![Main App Interface](https://github.com/user-attachments/assets/d33670d2-9496-4c59-9010-be0e1f5c3802)
+For best results, make sure to use a reader that supports:
+- **PC/SC Protocol**: Ensures compatibility with the application.
+- **ISO/IEC 7816 Standard**: Required for communicating with contact smart cards.
 
-### NFC Read Display
-Example of the app when an NFC tag is read:
-
-![NFC Read Display](https://github.com/user-attachments/assets/1f276bb3-c89e-4047-83c4-c91c39e866cb)
-
-### System Tray
-When minimized, the app goes to Windows hidden icons:
-
-![System Tray](https://github.com/user-attachments/assets/30e59c66-ae30-462c-8d74-2d81616c47dc)
-
-### System Tray Options
-From the system tray, you can choose to exit or reopen the app:
-
-![System Tray Options](https://github.com/user-attachments/assets/7cd97acc-c7d3-480b-85f4-954aaca670aa)
+Feel free to report any compatibility issues or feedback if you encounter them with other readers.
 
 ---
 
@@ -70,6 +58,30 @@ We welcome contributions! To get started:
 1. Fork the repository and create a new branch.
 2. Make your changes, following coding standards and best practices.
 3. Submit a pull request with a brief description of your updates.
+
+---
+
+## Screenshots
+
+### Main App Interface
+The primary interface of the app:
+
+![Main App Interface](https://github.com/user-attachments/assets/d33670d2-9496-4c59-9010-be0e1f5c3802)
+
+### NFC Read Display
+Example of the app when an NFC tag is read:
+
+![NFC Read Display](https://github.com/user-attachments/assets/1f276bb3-c89e-4047-83c4-c91c39e866cb)
+
+### System Tray
+When minimized, the app goes to Windows hidden icons:
+
+![System Tray](https://github.com/user-attachments/assets/30e59c66-ae30-462c-8d74-2d81616c47dc)
+
+### System Tray Options
+From the system tray, you can choose to exit or reopen the app:
+
+![System Tray Options](https://github.com/user-attachments/assets/7cd97acc-c7d3-480b-85f4-954aaca670aa)
 
 ---
 
