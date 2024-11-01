@@ -1,6 +1,6 @@
 # NFC-uid-Reader-Display
 
-**Status:** 🚧 Work in Progress 🚧
+**Status:** ✅ Active Development 
 
 An application designed to display NFC UID information with an easy-to-use graphical interface. This app minimizes to the Windows system tray and allows quick access and control.
 
@@ -49,6 +49,8 @@ Feel free to report any compatibility issues or feedback if you encounter them w
 ## Planned Features
 
 - **Settings Panel:** Adjust preferences like startup behavior and sound alerts.
+- **Bug Fixes:** Ongoing work to address any reported issues.
+- **Feature Enhancements:** Adding new functionalities based on user feedback.
 
 ---
 
