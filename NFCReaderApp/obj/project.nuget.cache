@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1SKKgOym4g=",
+  "dgSpecHash": "rNCLApBQEsI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sur\\source\\repos\\NFCReaderApp\\NFCReaderApp.csproj",
+  "projectFilePath": "C:\\GitHub\\Josh-su\\NFC-uid-Reader-Display\\NFCReaderApp\\NFCReaderApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sur\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.1.0\\hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512",
     "C:\\Users\\sur\\.nuget\\packages\\pcsc\\7.0.0\\pcsc.7.0.0.nupkg.sha512",

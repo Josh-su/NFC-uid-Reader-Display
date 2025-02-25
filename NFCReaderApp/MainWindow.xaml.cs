@@ -3,8 +3,6 @@ using System.ComponentModel;
 using System.Windows;
 using PCSC;
 using PCSC.Iso7816;
-using System.IO;
-using System.Windows;
 
 namespace NFCReaderApp
 {
@@ -27,7 +25,7 @@ namespace NFCReaderApp
             this.Top = SystemParameters.WorkArea.Height - this.Height;
 
             // Access the TaskbarIcon defined in XAML
-            var notifyIcon = (TaskbarIcon)FindResource("MyNotifyIcon");
+            _ = (TaskbarIcon)FindResource("MyNotifyIcon");
 
             // Start monitoring for card reader and card UID
             StartMonitoring();

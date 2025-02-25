@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFCReaderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c7849a2d16c9c75e1fbd99505ee7b9c4df9027")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFCReaderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFCReaderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
